@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "youtube",
+			"description": "CDN of youtube",
+			"domain_files": ["youtube.txt"]
+		},
+		{
 			"name": "netflix",
 			"description": "CDN of netflix",
 			"domain_files": ["netflix.txt"]
