@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "netflix",
+			"description": "CDN of netflix",
+			"domain_files": ["netflix.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
